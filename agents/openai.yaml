@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tibo Rooftop Reset"
+  short_description: "Climb Tibo’s tower and reach the rooftop reset"
+  default_prompt: "Use $tibo-rooftop to play Rooftop Reset and leave the reset button ready for me."
